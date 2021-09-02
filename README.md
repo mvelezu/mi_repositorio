@@ -1,2 +1,2 @@
 # mi_repositorio
-Proyecto realizado durante el diplomado de desarrollo web con la instución PROASEDU de Julio a Octubre del 2021
+Esta es una prueba para aprender a subir un repositorio a GitHub
